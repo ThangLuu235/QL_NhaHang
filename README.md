@@ -4,6 +4,9 @@ This is just a small project
 # Sử dụng Apache NetBeans để tạo ứng dụng
 
 # Được làm bởi nhóm 8
+
+Chức năng đã thiết kế : đăng nhập ,đăng ký , form quản lý khách hàng
+
  Các thành viên bao gồm :
  
  # Cao Đức Đạt 2001207078
@@ -11,9 +14,9 @@ This is just a small project
  # Lưu Đức Thắng 2001207161
  # Trần Lê Tiến Đạt 2001207386
  # Lê Tuấn Minh 2001200049
- Một số giao diện trong Project
+ 
+ Một số giao diện trong Project quản lý nhà hàng
 
-Chức năng đã thiết kế : đăng nhập ,đăng ký , form quản lý khách hàng
  
  <b>Giao diện đăng nhập</b>
 <p align="center">
