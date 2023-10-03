@@ -13,7 +13,7 @@ This is just a small project
  # Lê Tuấn Minh 2001200049
  Một số giao diện trong Project
 
-
+Chức năng đã thiết kế : đăng nhập ,đăng ký , form quản lý khách hàng
  
  <b>Giao diện đăng nhập</b>
 <p align="center">
